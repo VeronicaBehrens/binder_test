@@ -1,5 +1,5 @@
-# binder_test
+# Testing Binder and Pages functionality
 
-Adding some arbitrary text here.
+Binder for transient interactive coding: https://mybinder.org/v2/gh/VeronicaBehrens/binder_test/main
 
-Link to Binder: https://mybinder.org/v2/gh/VeronicaBehrens/binder_test/main
+Pages website: https://veronicabehrens.github.io/binder_test/
