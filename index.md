@@ -11,7 +11,7 @@
 <a href="01_R_Fundamentals.html" target="_blank">(static & view-only)</a>
 <a href="https://mybinder.org/v2/gh/VeronicaBehrens/binder_test/HEAD?urlpath=%2Fdoc%2Ftree%2F01_R_Fundamentals.ipynb" target="_blank">(interactive)</a>
 <a href="01_R_Fundamentals.ipynb" download>(download as .ipynb)</a>
-- Exercise solutions [(static & view-only)](01_R_Fundamentals_Solutions.html)
+- Exercise solutions <a href="01_R_Fundamentals_Solutions.html" target="_blank">(static & view-only)</a>
 
 ### *Module 2 — Data Wrangling & Visualization*
 
@@ -26,3 +26,6 @@
 ## Advanced Modules
 
 ### *Module 4*
+
+[//]: # (COMMENTS)
+<!-- Exercise solutions [(static & view-only)](01_R_Fundamentals_Solutions.html) -->
