@@ -1,5 +1,5 @@
-# Testing Binder and Pages functionality
+# Test repo for workshop sharing
 
-Binder for transient interactive coding: https://mybinder.org/v2/gh/VeronicaBehrens/binder_test/main
+Jupyter Binder for transient interactive coding: https://mybinder.org/v2/gh/VeronicaBehrens/binder_test/main
 
-Pages website: https://veronicabehrens.github.io/binder_test/
+GitHub Pages website: https://veronicabehrens.github.io/binder_test/
