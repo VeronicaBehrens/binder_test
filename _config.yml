@@ -1,9 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: minima                   # simple, blog-like
+theme: jekyll-theme-slate       # dark header
+#theme: jekyll-theme-minimal     # sidebar layout
+#theme: jekyll-theme-architect   # clean, wide
+#theme: jekyll-theme-cayman      # header banner
 title: R for Bioinformatics
 description: A hands-on workshop from the Stanford ISCBRM Bioinformatics Core
-
-# theme: minima                   # simple, blog-like
-# theme: jekyll-theme-slate       # dark header
-# theme: jekyll-theme-minimal     # sidebar layout
-# theme: jekyll-theme-architect   # clean, wide
-# theme: jekyll-theme-cayman      # header banner
