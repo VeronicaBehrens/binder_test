@@ -4,7 +4,7 @@ theme: jekyll-theme-slate       # dark header
 #theme: jekyll-theme-midnight     # black and yellow
 
 title: R for Bioinformatics
-description: |
-  Bioinformatics Core<br>
-  Institute for Stem Cell Biology and Regenerative Medicine<br>
-  Stanford University
+#description: |
+#  Bioinformatics Core<br>
+#  Institute for Stem Cell Biology and Regenerative Medicine<br>
+#  Stanford University
