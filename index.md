@@ -1,6 +1,8 @@
-**<span style="color:red">Bioinformatics Core</span>**<br>
+**<span style="color:red" style="font-size: 120%">Bioinformatics Core</span>**<br>
 <span style="color:red">Institute for Stem Cell Biology and Regenerative Medicine</span><br>
 <span style="color:red">Stanford University</span>
+
+<span style="font-size: 150%;">This text is also bigger.</span>
 
 [*← Back to all workshops and resources*](https://veronicabehrens.github.io/)<br><br>
 
