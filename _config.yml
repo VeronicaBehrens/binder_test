@@ -3,8 +3,9 @@ theme: jekyll-theme-slate       # dark header
 #theme: jekyll-theme-minimal     # sidebar layout
 #theme: jekyll-theme-midnight     # black and yellow
 
-title: |
-  Bioinformatics Core
-  Institute for Stem Cell Biology and Regenerative Medicine
-  Stanford University
+title_separator: "&#124;"
+title:
+  Bioinformatics Core |
+  Institute for Stem Cell Biology and Regenerative Medicine |
+  Stanford University |
 description: Workshop materials and resources
