@@ -1,3 +1,5 @@
+[← Back to all workshops and resources](https://veronicabehrens.github.io/)
+
 # R for Bioinformatics
 
 *Placeholder text describing the contents of the website.*
@@ -26,6 +28,8 @@
 ## Advanced Modules
 
 ### *Module 4*
+
+[← Back to all workshops and resources](https://veronicabehrens.github.io/)
 
 [//]: # (COMMENTS)
 <!-- Exercise solutions [(static & view-only)](01_R_Fundamentals_Solutions.html) -->
