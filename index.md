@@ -1,7 +1,6 @@
-<span style="color:red">Bioinformatics Core</span>
-Bioinformatics Core<br>
-Institute for Stem Cell Biology and Regenerative Medicine<br>
-Stanford University
+**<span style="color:red">Bioinformatics Core</span>**<br>
+<span style="color:red">Institute for Stem Cell Biology and Regenerative Medicine</span><br>
+<span style="color:red">Stanford University</span>
 
 [*← Back to all workshops and resources*](https://veronicabehrens.github.io/)<br><br>
 
